@@ -3,7 +3,7 @@ Bu proje Murat Yücedağ'ın Udemy de bulunan ASP.NET CORE ile Portfolyo Uygulam
 
 # Projeye Genel Bakış
 Proje, Asp.Net CORE, SQL Server, MVC, CSS, ve HTML kullanılarak geliştirilmiş bir dinamik portfolyo uygulamasını içermektedir. Template kullanarak Model-View-Controller yapılarını ile Sql Server Veri Tabanına veriler kaydedilerek dinamik olarak proje oluşturulmuştur.
-Projeye eklenen dashboard sekmesi ile projenin tüm istatistik bilgilerine ve öne çıkan özelliklerine erişim sağlamaktadır. Admin tarafında ise tüm verilerin CRUD işlemleri yapılabilmektedir. Okunanan mesajı okundu olarak işaretleyebilmekte ve yapılan bildirimi yapıldı olarak işaretleyebilmektedir.
+Projeye eklenen dashboard sekmesi ile projenin tüm istatistik bilgilerine ve öne çıkan özelliklerine erişim sağlamaktadır. Admin tarafında ise oluşturulan tablolar üzerinde CRUD işlemleri yapılabilmektedir. Okunanan mesajı okundu olarak işaretleyebilmekte ve yapılan bildirimi yapıldı olarak işaretleyebilmektedir.
 
 # Admin Özelikleri
 - Tüm verilerin CRUD işlemlerini yapabilmektedir.
