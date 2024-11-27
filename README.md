@@ -14,6 +14,7 @@ Projeye eklenen dashboard sekmesi ile projenin tüm istatistik bilgilerine ve ö
 # Kullanılan Teknolojiler
 - ASP.NET CORE
 - SQL SERVER
+- Entity Framework
 - MVC
 - CSS
 - HTML
